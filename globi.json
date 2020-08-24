@@ -1,8 +1,6 @@
 { 
   "format": "rss",
   "citation": "Symbiota Collections of Arthropods Network (SCAN)",
-  "resources": {
-    "rss": "https://scan-bugs.org:443/portal/webservices/dwc/rss.xml"
-  },
+  "url": "https://scan-bugs.org:443/portal/webservices/dwc/rss.xml"
   "shouldResolveReferences": false
 }
