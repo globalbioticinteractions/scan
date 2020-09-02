@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/globalbioticinteractions/scan.svg)](https://travis-ci.org/globalbioticinteractions/scan) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/scan)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/scan) 
+[![Build Status](https://travis-ci.com/globalbioticinteractions/scan.svg)](https://travis-ci.com/globalbioticinteractions/scan) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/scan)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/scan) 
 
 ## Symbiota Collections of Arthropods Network (SCAN)
 
