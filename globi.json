@@ -3,6 +3,6 @@
   "citation": "Symbiota Collections of Arthropods Network (SCAN)",
   "url": "https://scan-bugs.org:443/portal/webservices/dwc/rss.xml",
   "hasDependencies": false,
-  "exclude": ".*(BYU-BYUC|MSU-MSUC|ANSP-ENT|UHIM-UHIM|UTAH-PIPR|UWSP-PARA).*",
+  "exclude": ".*(BYU-BYUC|MSU-MSUC|ANSP-ENT|UHIM-UHIM|UTAH-PIPR|UWSP-PARA|UNHC-UNHC|MIN-UMSP).*",
   "shouldResolveReferences": false
 }
