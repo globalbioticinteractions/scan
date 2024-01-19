@@ -3,6 +3,6 @@
   "citation": "Symbiota Collections of Arthropods Network (SCAN)",
   "url": "https://scan-bugs.org:443/portal/webservices/dwc/rss.xml",
   "hasDependencies": false,
-  "exclude": ".*(BYU-BYUC|MSU-MSUC|ANSP-ENT|UHIM-UHIM|UTAH-PIPR|UWSP-PARA|MIN-UMSP|UCSB-IZC|>WWU-|>VPI-|>UWSP-|>UVM-|>UTU-|>UTC-|>UTAH-|>USNM-|>UMNH-|>UHIM-|>UCSC-|>UCONN-|>UCD-|>UA-|>TTU-|>SSAC-|>SEMO-|>SDSU-|>SDNHM-|>SCFS-|>SBMNH-|>NAU-|>MSU-|>MSM-|>LCDI-|>LACM-|>JNRC-|>Jacques-|>Rifkind-|>INHS-|>GMNH-|>GHIRC-|>FSCA-|>DUGWAY-|>DMNS-|>DCH-|>DBG-|>CU-|>CSU-|>CSCA-|>CAS-|>CAES-|>BYU-|>BROW-|>BPBM-|>BMNH-|>ASU-|>ANSP-|>AMNH-).*",
+  "exclude": ".*(>BYU-|>MSU-|>ANSP-|>UHIM-|>UTAH-|>UWSP-|>MIN-|>UCSB-|>WWU-|>VPI-|>UWSP-|>UVM-|>UTU-|>UTC-|>UTAH-|>USNM-|>UMNH-|>UHIM-|>UCSC-|>UCONN-|>UCD-|>UA-|>TTU-|>SSAC-|>SEMO-|>SDSU-|>SDNHM-|>SCFS-|>SBMNH-|>NAU-|>MSU-|>MSM-|>LCDI-|>LACM-|>JNRC-|>Jacques-|>Rifkind-|>INHS-|>GMNH-|>GHIRC-|>FSCA-|>DUGWAY-|>DMNS-|>DCH-|>DBG-|>CU-|>CSU-|>CSCA-|>CAS-|>CAES-|>BYU-|>BROW-|>BPBM-|>BMNH-|>ASU-|>ANSP-|>AMNH-).*",
   "shouldResolveReferences": false
 }
